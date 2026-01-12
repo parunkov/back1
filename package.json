@@ -1,6 +1,7 @@
 {
   "name": "back1",
   "version": "1.0.0",
+  "type": "module",
   "main": "index.js",
   "repository": "https://github.com/parunkov/back1",
   "author": "parunkov <parunkov@gmail.com>",
@@ -9,6 +10,10 @@
     "express": "^5.2.1"
   },
   "devDependencies": {
-    "nodemon": "^3.1.11"
+    "@types/express": "^5.0.6",
+    "@types/node": "^25.0.6",
+    "nodemon": "^3.1.11",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3"
   }
 }
