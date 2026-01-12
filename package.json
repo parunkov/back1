@@ -1,0 +1,14 @@
+{
+  "name": "back1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/parunkov/back1",
+  "author": "parunkov <parunkov@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.11"
+  }
+}
