@@ -6,6 +6,10 @@
   "repository": "https://github.com/parunkov/back1",
   "author": "parunkov <parunkov@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "watch": "tsc -w",
+    "dev": "nodemon --inspect .\\dist\\index.js"
+  },
   "dependencies": {
     "express": "^5.2.1"
   },
